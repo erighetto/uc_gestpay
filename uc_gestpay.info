@@ -1,0 +1,9 @@
+name = Gestpay
+description = Enable to process payments using gestpay by Banca Sella (http://wwww.easynolo.it).
+dependencies[] = uc_payment
+package = Ubercart - payment
+core = 7.x
+php = 5.0
+
+
+
